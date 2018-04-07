@@ -21,9 +21,9 @@ Open source, self-hosted, mobile-optimized CI powered by [fastlane](https://fast
 
 ## Statement
 
-We strongly believe in making Continuous Integration systems for mobile app developers better. While CI is a solved problem for backend and frontend applications, mobile ecosystems saw almost no improvements in their workflows. Three years ago we solved the problem of mobile app deployment with _fastlane_. We want to stay true to our long-term vision of automating every single aspect of your daily development workflow. Together, with the community, we have the experience and know-how to build a world-class, easy-to-use mobile-only CI, with the added benefits of being fully self-hosted and open source.
+We always want to make Continuous Integration systems better for mobile app developers. While CI is a solved problem for backend and frontend applications, almost no improvements can be made in mobile ecosystems' workflows. Three years ago we solved the problem of mobile app deployment with _fastlane_. We want to stay true to our long-term vision of automating every single aspect of your daily development workflow. Together, with the community, we have the experience and know-how to build a world-class, easy-to-use mobile-only CI, with the additional benefits of being fully self-hosted and open source.
 
-With this project, we don't just want to make using CI easier, we want to bring [fastlane](https://fastlane.tools) to the next level. While building fastlane.ci, we'll be introducing new features like visually previewing your Fastfile, automatically clearing old TestFlight testers from your account, getting notifications when your app gets approved, and more.
+With this project, we not only want to make CI easier to use, we also want to bring [fastlane](https://fastlane.tools) to the next level. While building fastlane.ci, we'll be introducing new features like visually previewing your Fastfile, automatically clearing old TestFlight testers from your account, getting notifications when your app gets approved, and more.
 
 [Interested? Be the first to hear about the official release](https://tinyletter.com/fastlane-tools)
 
